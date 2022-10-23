@@ -1,1 +1,4 @@
-# CreateDB_SQLite3_on_Python
+### База данных HOTEL
+В базе данных HOTEL упор делается на работу с данными обслуживания номера и работу сотрудников.
+### Модель
+![image](https://user-images.githubusercontent.com/91527667/197386430-3662b4e6-1116-4b8a-b319-d43759534b15.png)
